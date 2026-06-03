@@ -1,44 +1,148 @@
-### 🔥 About Me
+<h1 align="center">Hi 👋, I'm K</h1>
 
-I am a **front-end ,back-end web developer** passionate about creating **dynamic, responsive, and secure web applications**. I specialize in **Laravel, React, TypeScript, Tailwind CSS, and MySQL**, and I am continuously expanding my skills in **cybersecurity**.  
+<h3 align="center">
+  Full-Stack Developer | Next.js • NestJS • Prisma • PostgreSQL • Docker
+</h3>
 
-- 🌐 Fully skilled in **frontend and backend development**, building SPAs and optimizing application performance.  
-- 🔐 Enthusiastic about **cybersecurity**, familiar with **Network+ and Security+ fundamentals**, aiming to integrate secure practices into every project.  
-- 🐍 Completed a **Python course**, gaining knowledge in scripting and automation fundamentals.  
-- 🚀 Highly motivated to **grow, learn, and improve every day**, always seeking challenging projects to push my skills further.  
+<p align="center">
+  I build scalable, clean, and production-ready web applications using modern JavaScript and TypeScript technologies.
+</p>
 
 ---
 
-### 🛠 Skills
+## 🚀 About Me
 
-#### 🖥️ Frontend
-Skilled in crafting **responsive and interactive user interfaces**, with attention to **design, usability, and performance optimization**.  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+I'm a Full-Stack Developer focused on building modern, maintainable, and high-performance applications.
 
+I enjoy working across the full stack — from designing clean backend architectures with **NestJS**, **Prisma**, and **PostgreSQL**, to building beautiful and fast user interfaces with **Next.js**, **React**, **Tailwind CSS**, and **shadcn/ui**.
 
-#### 🔧 Backend
-Passionate about **building robust backend systems** with Laravel and MySQL, integrating databases, APIs, and secure logic for seamless functionality.  
-![Laravel](https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=fff&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+I care about clean code, type safety, developer experience, API-first architecture, and building products that are actually useful.
 
-#### 🐍 Python
-Completed a **Python course** at Gilar Institute, gaining foundational knowledge in **scripting and automation**.  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+---
 
-#### 🔐 Cyber Security
-Keen on **network security and safe coding practices**, integrating security at every layer of development.  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)
-![Security+](https://img.shields.io/badge/Security+-orange?style=for-the-badge)
+## 🧠 Tech Stack
 
-#### ⚙️ Tools
-Efficient with **version control, development environments, and terminal workflows**, ensuring organized and maintainable code.  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
-![Linux Terminal](https://img.shields.io/badge/Linux%20Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css" />
+</p>
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Material UI
+- Zustand
+- Redux Toolkit
+- TanStack Query
+- Axios
+- GSAP
+- Motion
+- React Bits
+
+---
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mongodb" />
+</p>
+
+- Node.js
+- Express.js
+- NestJS
+- Prisma ORM
+- Zod
+- Swagger / OpenAPI
+- Orval
+- REST API
+- Authentication & Authorization
+- API validation
+- Database design
+
+---
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+- PostgreSQL
+- MongoDB
+- Prisma migrations
+- Relational database design
+- Schema modeling
+- Query optimization basics
+
+---
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,npm,pnpm" />
+</p>
+
+- Docker
+- Git
+- GitHub
+- GitHub Actions basics
+- Swagger Documentation
+- pnpm / npm
+- Environment configuration
+- API generation with Orval
+
+---
+
+## 🏗️ What I Build
+
+- Full-stack web applications
+- Admin dashboards
+- REST APIs
+- Authentication systems
+- Database-driven applications
+- SaaS-style applications
+- Landing pages
+- Responsive websites
+- API documentation with Swagger
+- Type-safe frontend API clients with Orval
+- Clean UI systems with Tailwind CSS and shadcn/ui
+
+---
+
+## ⚡ My Development Approach
+
+I like building applications with:
+
+- Strong TypeScript types
+- Clean folder structure
+- Reusable components
+- API-first architecture
+- Validated inputs with Zod
+- Scalable backend modules
+- Clean database schemas
+- Modern UI/UX
+- Good developer experience
+- Maintainable codebase
+
+---
+
+## 🧩 Favorite Stack
+
+```txt
+Frontend:
+Next.js + React + TypeScript + Tailwind CSS + shadcn/ui
+
+State & Data:
+TanStack Query + Zustand + Axios
+
+Backend:
+NestJS + Prisma + Zod + Swagger
+
+Database:
+PostgreSQL / MongoDB
+
+DevOps:
+Docker + GitHub

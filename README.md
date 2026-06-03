@@ -1,22 +1,26 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Next.js • NestJS • Prisma • PostgreSQL • Docker
+  Full-Stack Developer building Web, Mobile & Desktop apps with TypeScript
 </h3>
 
 <p align="center">
-  I build scalable, clean, and production-ready web applications using modern JavaScript and TypeScript technologies.
+  I build modern, scalable, and maintainable applications using Next.js, React, NestJS, Prisma, PostgreSQL, Docker, and modern TypeScript tools.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,express,prisma,postgres,mongodb,docker,tailwind,redux,git,github" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer focused on building modern, maintainable, and high-performance applications.
+I'm a Full-Stack Developer focused on building clean, scalable, and production-ready applications.
 
-I enjoy working across the full stack — from designing clean backend architectures with **NestJS**, **Prisma**, and **PostgreSQL**, to building beautiful and fast user interfaces with **Next.js**, **React**, **Tailwind CSS**, and **shadcn/ui**.
+I work with modern frontend and backend technologies and care about performance, type safety, clean architecture, debugging, and developer experience.
 
-I care about clean code, type safety, developer experience, API-first architecture, and building products that are actually useful.
+I'm also expanding my path toward **React Native** for mobile apps and **Electron** for desktop applications.
 
 ---
 
@@ -24,31 +28,21 @@ I care about clean code, type safety, developer experience, API-first architectu
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css" />
-</p>
-
 - React.js
 - Next.js
 - TypeScript
 - Tailwind CSS
 - shadcn/ui
 - Material UI
+- TanStack Query
 - Zustand
 - Redux Toolkit
-- TanStack Query
 - Axios
 - GSAP
 - Motion
 - React Bits
 
----
-
 ### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mongodb" />
-</p>
 
 - Node.js
 - Express.js
@@ -58,41 +52,25 @@ I care about clean code, type safety, developer experience, API-first architectu
 - Swagger / OpenAPI
 - Orval
 - REST API
-- Authentication & Authorization
+- Authentication
 - API validation
-- Database design
-
----
 
 ### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
 
 - PostgreSQL
 - MongoDB
 - Prisma migrations
-- Relational database design
-- Schema modeling
-- Query optimization basics
-
----
+- Database schema design
 
 ### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,npm,pnpm" />
-</p>
 
 - Docker
 - Git
 - GitHub
-- GitHub Actions basics
-- Swagger Documentation
+- Postman
+- Swagger
+- VS Code
 - pnpm / npm
-- Environment configuration
-- API generation with Orval
 
 ---
 
@@ -102,30 +80,30 @@ I care about clean code, type safety, developer experience, API-first architectu
 - Admin dashboards
 - REST APIs
 - Authentication systems
-- Database-driven applications
 - SaaS-style applications
-- Landing pages
+- Database-driven applications
 - Responsive websites
-- API documentation with Swagger
-- Type-safe frontend API clients with Orval
-- Clean UI systems with Tailwind CSS and shadcn/ui
+- Type-safe API clients with Orval
+- Performance-optimized apps
+- Mobile apps with React Native
+- Desktop apps with Electron
 
 ---
 
-## ⚡ My Development Approach
+## 🧪 Testing, Debugging & Performance
 
-I like building applications with:
+I focus on building applications that are reliable, debuggable, and optimized.
 
-- Strong TypeScript types
-- Clean folder structure
-- Reusable components
-- API-first architecture
-- Validated inputs with Zod
-- Scalable backend modules
-- Clean database schemas
-- Modern UI/UX
-- Good developer experience
-- Maintainable codebase
+- Lighthouse testing
+- Performance optimization
+- Core Web Vitals
+- SEO checks
+- Accessibility checks
+- Browser DevTools debugging
+- API debugging with Postman and Swagger
+- Network request inspection
+- Error handling
+- Server log checking
 
 ---
 
@@ -136,13 +114,19 @@ Frontend:
 Next.js + React + TypeScript + Tailwind CSS + shadcn/ui
 
 State & Data:
-TanStack Query + Zustand + Axios
+TanStack Query + Zustand + Redux Toolkit + Axios
 
 Backend:
-NestJS + Prisma + Zod + Swagger
+NestJS + Express.js + Prisma + Zod + Swagger
 
 Database:
-PostgreSQL / MongoDB
+PostgreSQL + MongoDB
+
+Quality:
+Lighthouse + DevTools + Postman + Swagger
 
 DevOps:
-Docker + GitHub
+Docker + GitHub + Git
+
+Next Direction:
+React Native + Electron

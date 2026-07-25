@@ -1,260 +1,201 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 
 <h3 align="center">
-  Full-Stack Developer building Web, Mobile & Desktop applications with TypeScript
+Full-Stack Developer | Web • Mobile • Desktop
 </h3>
 
 <p align="center">
-  I build modern, scalable, maintainable, and production-ready applications using Next.js, React, NestJS, Prisma, PostgreSQL, Docker, and the modern TypeScript ecosystem.
+Building scalable, modern, production-ready applications with the TypeScript ecosystem.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,prisma,postgres,mongodb,docker,tailwind,redux,git,github,vscode,postman" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nextjs,nodejs,nestjs,express,prisma,postgres,mongodb,docker,tailwind,redux,git,github,vscode,postman" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui" title="shadcn/ui" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tanstack/FF4154" height="42" alt="TanStack Query" title="TanStack Query" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/gsap/0AE448" height="42" alt="GSAP" title="GSAP" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/expo/000020" height="42" alt="Expo" title="Expo" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="React Native" title="React Native" />
+<img src="https://cdn.simpleicons.org/shadcnui" height="42"/>
+<img src="https://cdn.simpleicons.org/tanstack/FF4154" height="42"/>
+<img src="https://cdn.simpleicons.org/gsap/88CE02" height="42"/>
+<img src="https://cdn.simpleicons.org/expo" height="42"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Full-Stack Developer focused on building clean, scalable, maintainable, and production-ready applications.
+I'm a Full-Stack Developer passionate about building scalable, maintainable, and high-performance applications.
 
-I work across frontend and backend development and care deeply about:
+My primary focus is the TypeScript ecosystem, creating modern solutions across Web, Mobile, and Desktop platforms.
 
-* Performance
-* Type safety
-* Clean architecture
-* Maintainable code
-* Debugging
-* Developer experience
-* Accessibility
-* Responsive design
-* API reliability
+Currently exploring:
 
-I'm also expanding my development path toward **React Native** and **Expo** for mobile applications, as well as **Electron** for cross-platform desktop applications.
+- 📱 React Native
+- ⚡ Expo
+- 🖥 Electron
+- 🏗 System Design
 
 ---
 
-## 🧠 Tech Stack
+# 🛠 Tech Stack
 
-### 🎨 Frontend
+## Frontend
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* shadcn/ui
-* Material UI
-* TanStack Query
-* Zustand
-* Redux Toolkit
-* Axios
-* GSAP
-* Motion
-* React Bits
-* Responsive Design
-* Server-Side Rendering
-* Client-Side Rendering
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Material UI
+- TanStack Query
+- Redux Toolkit
+- Zustand
+- Axios
+- GSAP
+- Motion
 
-### ⚙️ Backend
+## Backend
 
-* Node.js
-* Express.js
-* NestJS
-* Prisma ORM
-* Zod
-* Swagger
-* OpenAPI
-* Orval
-* REST API
-* Authentication
-* Authorization
-* API Validation
-* Error Handling
-* Modular Architecture
+- Node.js
+- Express.js
+- NestJS
+- Prisma ORM
+- Zod
+- Swagger
+- OpenAPI
+- REST API
+- JWT Authentication
 
-### 🗄️ Database
+## Database
 
-* PostgreSQL
-* MongoDB
-* Prisma Migrations
-* Database Schema Design
-* Relational Data Modeling
-* Query Optimization
+- PostgreSQL
+- MongoDB
+- Prisma Migrations
 
-### 📱 Mobile Development
+## Mobile
 
-* React Native
-* Expo
-* TypeScript
-* Mobile UI Development
-* Cross-Platform Applications
+- React Native
+- Expo
 
-### 🖥️ Desktop Development
+## Desktop
 
-* Electron
-* React
-* TypeScript
-* Cross-Platform Desktop Applications
+- Electron
 
-### 🐳 DevOps & Tools
+## DevOps
 
-* Docker
-* Git
-* GitHub
-* Postman
-* Swagger
-* VS Code
-* pnpm
-* npm
-* Chrome DevTools
-* GitHub Actions
+- Docker
+- Git
+- GitHub
+- GitHub Actions
+- VS Code
+- pnpm
+- npm
 
 ---
 
-## 🏗️ What I Build
+# 💼 What I Build
 
-* Full-stack web applications
-* Admin dashboards
-* REST APIs
-* Authentication systems
-* Authorization systems
-* SaaS-style applications
-* Database-driven applications
-* Responsive websites
-* Type-safe API clients with Orval
-* Performance-optimized applications
-* Mobile applications with React Native and Expo
-* Desktop applications with Electron
-* Reusable component systems
-* Scalable backend architectures
+- Full Stack Applications
+- REST APIs
+- SaaS Platforms
+- Authentication Systems
+- Admin Dashboards
+- Responsive Websites
+- Mobile Apps
+- Desktop Apps
+- Type-safe API Clients
+- Database-driven Applications
 
 ---
 
-## 🧪 Testing, Debugging & Performance
+# ⚡ Performance & Quality
 
-I focus on building applications that are reliable, debuggable, accessible, and optimized for production.
-
-* Lighthouse testing
-* Performance optimization
-* Core Web Vitals
-* SEO checks
-* Accessibility checks
-* Browser DevTools debugging
-* API debugging with Postman
-* API testing with Swagger
-* Network request inspection
-* Error handling
-* Server log analysis
-* Database query debugging
-* Responsive design testing
-* Cross-browser testing
+- Lighthouse
+- Core Web Vitals
+- SEO
+- Accessibility
+- Chrome DevTools
+- Postman
+- Swagger
+- Error Handling
+- Debugging
+- Performance Optimization
 
 ---
 
-## 🧩 Favorite Stack
+# 📚 Currently Learning
 
-```txt
-Frontend:
-Next.js + React + TypeScript + Tailwind CSS + shadcn/ui
-
-State & Data:
-TanStack Query + Zustand + Redux Toolkit + Axios
-
-Animation:
-GSAP + Motion
-
-Backend:
-NestJS + Express.js + Prisma + Zod + Swagger
-
-Database:
-PostgreSQL + MongoDB
-
-Mobile:
-React Native + Expo + TypeScript
-
-Desktop:
-Electron + React + TypeScript
-
-Quality:
-Lighthouse + DevTools + Postman + Swagger
-
-DevOps:
-Docker + GitHub + Git
-
-Package Management:
-pnpm + npm
-```
+- Advanced React Native
+- Expo Router
+- Electron
+- Advanced NestJS
+- System Design
+- CI/CD
+- Kubernetes
 
 ---
 
-## 📚 Currently Learning
+# 🎯 Goals
 
-* Advanced React Native
-* Expo ecosystem
-* Mobile application architecture
-* Electron application development
-* Advanced NestJS architecture
-* Backend performance optimization
-* System design
-* Testing strategies
-* CI/CD workflows
+- Build scalable SaaS products
+- Improve architecture skills
+- Contribute to Open Source
+- Learn Cloud Infrastructure
+- Publish useful developer tools
 
 ---
 
-## 🎯 Current Goals
-
-* Build production-ready mobile applications with React Native and Expo
-* Build cross-platform desktop applications with Electron
-* Improve application performance and scalability
-* Strengthen testing and software architecture skills
-* Contribute to open-source projects
-* Build reusable developer tools and libraries
-
----
-
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kavebrahimi&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kavebrahimi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kawebrahimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavebrahimi&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawebrahimi&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <strong>Clean Code • Scalable Architecture • Type Safety • Performance</strong>
+<img src="https://github-profile-trophy.vercel.app/?username=Kawebrahimi&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
-  Thanks for visiting my profile 🚀
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kawebrahimi&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/Kawebrahimi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+**Clean Code • Type Safety • Scalable Architecture • Performance**
+
+⭐ Thanks for visiting my profile!
+
 </p>
